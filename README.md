@@ -6,8 +6,7 @@
 <sub>// Hecelchakán, Campeche, México</sub>
 
 <br/>
-
-[![Ver perfil interactivo](https://img.shields.io/badge/▶%20VER%20PERFIL%20INTERACTIVO%20COMPLETO-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://kevinyam10.github.io/KevinYam10/)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1c95502-b8d2-4447-a59a-b758f4cbd3d2" />
 
 <br/>
 
@@ -19,7 +18,7 @@
 
 ---
 
-## `// about.txt`
+## `// sobreMi.txt`
 
 - 👾 Desarrollador de software enfocado en **apps móviles**, **paginas Webs**, **Uso de IA**
 - 📍 Hecelchakán, Campeche, México
@@ -44,7 +43,7 @@
 
 ---
 
-## `// projects/`
+## `// proyectos/`
 
 ### 📦 InvetariApp
 > App Android para creación de inventarios personalizados, editables y descargables. Diseñada para ser cómoda y sencilla para cualquier usuario.
