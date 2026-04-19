@@ -6,7 +6,8 @@
 <sub>// Hecelchakán, Campeche, México</sub>
 
 <br/>
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1c95502-b8d2-4447-a59a-b758f4cbd3d2" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b053f5c-0f42-466d-90c8-695c62b79b05" />
+
 
 <br/>
 
