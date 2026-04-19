@@ -6,9 +6,8 @@
 <sub>// Hecelchakán, Campeche, México</sub>
 
 <br/>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VxdXp6Z3R4bm9pZzRreXp4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
-</p>
+<img width="222" height="222" alt="image" src="https://github.com/user-attachments/assets/b3440b31-38bc-41fb-88a2-d794fc4e0ad6" />
+
 
 
 <br/>
