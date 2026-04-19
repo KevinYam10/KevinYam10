@@ -25,16 +25,16 @@
 ---
 
 ## `> whoami`
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd3dGF6NHZtaHZqaHZqaHZqaHZqaHZqaHZqaHZqaHZqaHZqaCZlcD12MV9pbnRlcm5hbGdfZ2lmX2J5X2lkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 ```json
 {
   "nombre":    "Kevin Efren Yam Huicab",
   "alias":     "KevinYam10",
   "ubicacion": "Hecelchakán, Campeche 🇲🇽",
   "rol":       "Software Developer",
-  "enfoque":   ["Android", "Flutter", "REST APIs", "Automatización de documentos"],
+  "enfoque":   ["Aplicaciones Moviles", "Desarrollo Web", "Manejo de Ia", "GoogleCloud"],
   "estado":    "🎯 Focusing",
-  "bio":       "Construyo apps móviles que hacen el trabajo más rápido y cómodo."
+  "bio":       "Me gusta crear apps que hacen el trabajo más rápido y cómodo."
 }
 ```
 
@@ -88,16 +88,6 @@ BigQuery / SQL            ██████████████░░░░
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square)
-
----
-
-### 🗺️ App de Gestión Territorial *(privado)*
-> Sistema móvil para levantamiento de ciudadanos en campo: captación, sesiones de promoción,
-> fotos con geolocalización automática, sincronización en tiempo real con plataforma web.
-
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![REST](https://img.shields.io/badge/-REST_API-FF6B6B?style=flat-square)
 
 ---
 
