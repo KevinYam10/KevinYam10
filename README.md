@@ -1,65 +1,40 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=KEVIN+EFREN+YAM+HUICAB;SOFTWARE+DEVELOPER;MOBILE+%7C+ANDROID+%7C+FLUTTER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=KEVIN+EFREN+YAM+HUICAB;SOFTWARE+DEVELOPER;MOBILE+%7C+WEB+%7C" alt="Typing SVG" />
 
 <sub>// Hecelchakán, Campeche, México</sub>
 
 <br/>
+<p align="center">
+  <img src="./cat.gif" width="200" alt="Pixel Art Animation">
+</p>
 
-[![Ver perfil interactivo](https://img.shields.io/badge/▶%20VER%20PERFIL%20INTERACTIVO%20COMPLETO-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://kevinyam10.github.io/KevinYam10/)
+
 
 <br/>
 
-![Android Dev](https://img.shields.io/badge/Android%20Dev-3FB950?style=flat-square&logo=android&logoColor=0d1117)
-![Flutter](https://img.shields.io/badge/Flutter-58A6FF?style=flat-square&logo=flutter&logoColor=0d1117)
-![Backend Integration](https://img.shields.io/badge/Backend%20Integration-F78166?style=flat-square&logo=fastapi&logoColor=0d1117)
+![Android](https://img.shields.io/badge/Android%20Dev-3FB950?style=flat-square&logo=android&logoColor=0d1117)
+![Backend](https://img.shields.io/badge/Backend%20Integration-F78166?style=flat-square&logo=fastapi&logoColor=0d1117)
 ![Open to collab](https://img.shields.io/badge/Open%20to%20collab-D2A8FF?style=flat-square&logo=handshake&logoColor=0d1117)
 
 </div>
 
 ---
 
-## `// about.txt`
+## `// sobreMi.txt`
 
-- 👾 Desarrollador de software enfocado en **apps móviles Android** y **Flutter**
+- 👾 Desarrollador de software enfocado en **apps móviles**, **paginas Webs**, **Uso de IA**
 - 📍 Hecelchakán, Campeche, México
-- 🔧 Trabajo con `Kotlin` · `Dart` · `Java` · `REST APIs` · `BLoC`
-- 📄 Experto en automatización de documentos **(DOCX, PPTX, JSON)**
+- 🔧 Trabajo con un poco de todo
 - 🧠 Me gusta construir herramientas que hagan el trabajo **más cómodo y rápido**
-- 🎯 Actualmente enfocado en proyectos de gestión y campo
+- 🎯 Actualmente enfocado en proyectos de mi cabeza
 
 ---
 
-## `// skills.exe`
 
-| Skill | Nivel |
-| --- | --- |
-| Android / Kotlin | `████████░░` 85% |
-| Flutter / Dart | `████████░░` 80% |
-| REST APIs / JSON | `█████████░` 88% |
-| Automatización DOCX/PPTX | `████████░░` 82% |
-| BLoC / State Management | `███████░░░` 75% |
-| BigQuery / SQL | `███████░░░` 70% |
-
----
-
-## `// stack.config`
 
 <div align="center">
-
-![Android](https://img.shields.io/badge/Android-3FB950?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-FFA657?style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-58A6FF?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-D2A8FF?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F78166?style=for-the-badge&logo=firebase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-3FB950?style=for-the-badge&logo=sqlite&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-58A6FF?style=for-the-badge&logo=fastapi&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-D2A8FF?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
-</div>
-
----
 
 ## `// stats.json`
 
@@ -72,7 +47,7 @@
 
 ---
 
-## `// projects/`
+## `// proyectos/`
 
 ### 📦 InvetariApp
 > App Android para creación de inventarios personalizados, editables y descargables. Diseñada para ser cómoda y sencilla para cualquier usuario.
@@ -80,15 +55,6 @@
 ![Dart](https://img.shields.io/badge/Dart-D2A8FF?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-58A6FF?style=flat-square&logo=flutter&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-3FB950?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-### 🗺️ App de Gestión Territorial
-> Sistema móvil para levantamiento de ciudadanos en campo: captación, visitas, fotos con geolocalización, sincronización con web.
-
-![Android](https://img.shields.io/badge/Android-3FB950?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-FFA657?style=flat-square&logo=kotlin&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-58A6FF?style=flat-square&logo=fastapi&logoColor=white)
 
 ---
 
