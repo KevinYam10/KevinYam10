@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=KEVIN+EFREN+YAM+HUICAB;SOFTWARE+DEVELOPER;MOBILE+%7C+WEB+%7C+FLUTTER" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=KEVIN+EFREN+YAM+HUICAB;SOFTWARE+DEVELOPER;MOBILE+%7C+WEB+%7C" alt="Typing SVG" />
 
 <sub>// Hecelchakán, Campeche, México</sub>
 
