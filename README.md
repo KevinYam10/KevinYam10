@@ -37,42 +37,6 @@
 ---
 
 
-
-<div align="center">
-
-## `// stats.json`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KevinYam10&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinYam10&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" />
-
-</div>
-
----
-
-## `// proyectos/`
-
-### 📦 InvetariApp
-> App Android para creación de inventarios personalizados, editables y descargables. Diseñada para ser cómoda y sencilla para cualquier usuario.
-
-![Dart](https://img.shields.io/badge/Dart-D2A8FF?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-58A6FF?style=flat-square&logo=flutter&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-3FB950?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-### 💰 PreciOfertas *(WIP)*
-> Agregadora de precios de MercadoLibre, Amazon y Walmart. Alertas en tiempo real cuando un producto baja de precio.
-
-![Flutter](https://img.shields.io/badge/Flutter-58A6FF?style=flat-square&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-FFA657?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-F78166?style=flat-square&logo=firebase&logoColor=white)
-
----
-
-<div align="center">
-
 ### `[ PRESS START TO COLLABORATE ]`
 
 [![GitHub](https://img.shields.io/badge/github.com/KevinYam10-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/KevinYam10)
